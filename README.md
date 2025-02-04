@@ -70,6 +70,16 @@ git checkout -b feature2
 ![alt text](image-7.png)
 
 
+### Pull Request steps
+
+![alt text](<Screenshot 2025-02-04 102549.png>) 
+
+![alt text](<Screenshot 2025-02-04 102613.png>)
+
+![alt text](<Screenshot 2025-02-04 102831.png>) 
+
+
+
 
 
 
